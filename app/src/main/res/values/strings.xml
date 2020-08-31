@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chuck Norris Jokes</string>
+    <string name="joke">Joke</string>
+    <string name="_1">#1</string>
+    <string name="chuck_norris_joke">Chuck Norris joke</string>
+    <string name="category">Category</string>
+    <string name="nerdy">Nerdy</string>
+    <string name="share_using">Share</string>
+</resources>
